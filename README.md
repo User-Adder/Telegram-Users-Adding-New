@@ -2,7 +2,7 @@
 🚀 Telegram Users Adder is a powerful automation tool designed to help you grow your Telegram groups or channels by automatically adding targeted members. Whether you're building a community, promoting a product, or scaling an engagement strategy, this tool helps you expand your audience quickly and efficiently.
 
 # 📁 GET IT HERE: https://shorturl.at/MdvDy
-# CONTACT FOR QUESTIONS: https://shorturl.at/qRqTq
+# FOR ANY QUESTIONS: https://shorturl.at/qRqTq
 
 <img src='UI1.png' width='450'>
 
@@ -37,7 +37,4 @@ While this tool includes over 43 additional functions like exporting members, fi
 - Event organizers pushing group announcements
 
 # 📁 GET IT HERE: https://shorturl.at/MdvDy
-# CONTACT FOR QUESTIONS: https://shorturl.at/qRqTq
-
-<h2 align="center">Visitors Counts👀</h2>
-<a href="https://github.com/User-Adder/Telegram-Users-Adding-New"><img alt="Cute Count" src="https://count.getloli.com/get/@TadSn?theme=rule34" /></a>
+# FOR ANY QUESTIONS: https://shorturl.at/qRqTq
